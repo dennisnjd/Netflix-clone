@@ -1,0 +1,34 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 21px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #110f0f;
+}
+.navLogo{
+    position: fixed;
+    left: 20px;
+    width: 90px;
+    top: 12px;
+}
+
+.navAvatar{
+    position: fixed;
+    right: 20px;
+    width: 32px;
+    top: 12px;
+}
+.navOptions{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    left: 8em;
+    top: 13px;
+}
+.navOption{
+    margin-left: 1em;
+}
