@@ -10,7 +10,8 @@ function App() {
   return (
     <div>
 
-    <Navbar/>
+    <Navbar/> 
+    {/* asskjj kn jkkjnkjnjnd */}
     <Banner/>
     <RowPost url={originals} title='Netflix Originals'/>
     <RowPost url={actions} title='Action' isSmall />
