@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Netflix-clone/static/css/main.289c1628.css",
-    "main.js": "/Netflix-clone/static/js/main.004d494f.js",
+    "main.css": "/Netflix-clone/static/css/main.daa0701b.css",
+    "main.js": "/Netflix-clone/static/js/main.d53e05e8.js",
     "static/js/787.0904c1f0.chunk.js": "/Netflix-clone/static/js/787.0904c1f0.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Netflix-clone/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/Netflix-clone/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -9,12 +9,12 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/Netflix-clone/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Netflix-clone/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/Netflix-clone/index.html",
-    "main.289c1628.css.map": "/Netflix-clone/static/css/main.289c1628.css.map",
-    "main.004d494f.js.map": "/Netflix-clone/static/js/main.004d494f.js.map",
+    "main.daa0701b.css.map": "/Netflix-clone/static/css/main.daa0701b.css.map",
+    "main.d53e05e8.js.map": "/Netflix-clone/static/js/main.d53e05e8.js.map",
     "787.0904c1f0.chunk.js.map": "/Netflix-clone/static/js/787.0904c1f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.289c1628.css",
-    "static/js/main.004d494f.js"
+    "static/css/main.daa0701b.css",
+    "static/js/main.d53e05e8.js"
   ]
 }
