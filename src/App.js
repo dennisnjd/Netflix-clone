@@ -1,24 +1,20 @@
-import React from 'react' 
-import Navbar from "./components/Navbar/Navbar";
+import React from 'react'
 import "./App.css"
-import Banner from './components/Banner/Banner';
-import RowPost from './components/RowPost/RowPost';
-import {originals,actions,comedy,horror,documentry,tvShows} from './urls'
+
+import { RouterProvider } from "react-router-dom";
+import router from './PageRouter';
+
+import { MyListProvider } from './MyListContext';
 
 
 function App() {
   return (
     <div>
 
-    <Navbar/> 
-    {/* asskjj kn jkkjnkjnjnd */}
-    <Banner/>
-    <RowPost url={originals} title='Netflix Originals'/>
-    <RowPost url={actions} title='Action' isSmall />
-    <RowPost url={comedy} title='Comedy' isSmall />
-    <RowPost url={horror} title='Horror' isSmall />
-    <RowPost url={documentry} title='Documentares' isSmall />
-    <RowPost url={tvShows} title='TV Shows' isSmall />
+
+      <MyListProvider>
+        <RouterProvider router={router} />
+      </MyListProvider>
 
     </div>
   );
