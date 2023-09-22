@@ -7,7 +7,7 @@ import HomePage from "./Pages/Home/Home";
 
 const router = createBrowserRouter([
     { 
-      path: "/",
+      path: "/Netflix-clone",
       element: <HomePage/> ,
     },
     {

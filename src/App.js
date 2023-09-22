@@ -12,9 +12,7 @@ function App() {
     <div>
 
 
-      <MyListProvider>
         <RouterProvider router={router} />
-      </MyListProvider>
 
     </div>
   );
